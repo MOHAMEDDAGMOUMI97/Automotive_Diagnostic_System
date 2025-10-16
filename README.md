@@ -6,9 +6,6 @@ fault codes to be generated based on predefined thresholds.
 -->
 <h1>Automotive Diagnostics System</h1>
 <h3>Microcontroller-Based Automotive Monitoring Project</h3>
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E22AQGUkbiPB5o0kw/feedshare-shrink_2048_1536/B4EZgD_5G.H4Ao-/0/1752413740365?e=1763596800&v=beta&t=m21eGXsMlsW3qeueEwfvP8HMRR8DIhSkiyGXPw_dv2U" height="80%" width="80%" alt="Automotive Diagnostics System"/>
-</p>
 
 <h2>Overview</h2>
 <p>
@@ -31,6 +28,10 @@ and transmits the data in real time to a serial terminal.
 </ul>
 
 <h2>System Design</h2>
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQGUkbiPB5o0kw/feedshare-shrink_2048_1536/B4EZgD_5G.H4Ao-/0/1752413740365?e=1763596800&v=beta&t=m21eGXsMlsW3qeueEwfvP8HMRR8DIhSkiyGXPw_dv2U" height="80%" width="80%" alt="Automotive Diagnostics System"/>
+</p>
 <ul>
   <li><b>Microcontroller:</b> PIC16F877A</li>
   <li><b>Software Tools:</b> MPLAB X IDE, Proteus</li>
