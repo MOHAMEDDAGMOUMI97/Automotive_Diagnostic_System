@@ -7,7 +7,7 @@ fault codes to be generated based on predefined thresholds.
 <h1>Automotive Diagnostics System</h1>
 <h3>Microcontroller-Based Automotive Monitoring Project</h3>
 <p align="center">
-  <img src="https://ci3.googleusercontent.com/mail-img-att/AGAZnRrRhdik6HSew95Mi-z6FlDgfpCq7A1Funz0HFPoHpxjvm6CPOaRvqKe_Ojw9VD8rUHkH3pZWyj0E5wirGJ6hHdXGgwx_rSTFsTTEskHo7XZ9stN_Sx1ED19t2h-Cy7_fQiDl3mZNwwFrmjOXDlc9brqClyfuiuNbM3INylc4MoEwkxTSSm3nJy32iTVuB0S61WNpns9ZnTQz3PHRWSSn5SgQsqgrcIZxwSsIX1_1rzAm1hLegHDaZoTNfjEpeuwd6qEVtEofR3dL8EoUhAbegPgFXcoSSybZLGFspYagMnf_zjE1ET8p2X-fXc0N0Iq80PWRFlGK5ZYuvWE2YjwgDZTBDJ7ZWpGu40a2hq_eKi7umi7QHNok-AG5WTZJQfykQ6sSiMfOOO7YXq3OptQ-RjYO6zKq9WirlNfaUlvWYbDLxzil6x3s4B_S_vZnipYxI8kXairGDva9MoFif1pkDq7WiMP1IIN4tPavQOmK66No6ixY0yvdRV_sK37FKaZhdYaSpFY8xCvarnZRhzRaq7NtBdS0kHwCsL7wftTK9BhGjZ8LQozelVhV8_RCVmbM_DwITK01OGcCiB-Z9C_ck3wNq-mq-yGGdY7fibGThvX58tdLmWsHSQxTPM1hyfJJgU4cbFiMokfRyRFZ9yNHuu3IYTg2YZ99lHglPN7ua9bxRhBmxMnU9fMGcQxBeGnEy0VhzhKYdapEhtRifAOMXXySBZlJrVZE1eEX8RJ54cE9CsRAaMQsUxkpVVD4g78pZqCCX30FMyS4Dy7Q7wNjfyGs8IIGTiQF62ed9-brEBjs0p0eSmCICA-iGhTGrFHINW0h5Y0iRSNZcl8sO1scWKLda-x6gNOavE4Q1f0UQu3APmM9ltE_97OiX_dZ3ogoixIPRAr-libY1PDcM7e96XXwFMd9Avzjnv8WqydBrt2ojHxZzXR7lzpTW4kIkHGMjXonRQv5wva3glwnZEtRep1gIGmlepI80k2XlZgcMVJ0sCNaGMleYyB7Ykncq5f2t4Qz-qnFh1MZ_fiy-Dsj0HQIgVcGWMa0W0on82yLNK7nE1VT28w6aSXwInbc6yBFJaQiKq5N5Qizesl5fx19w=s0-l75-ft" height="80%" width="80%" alt="Automotive Diagnostics System"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQGUkbiPB5o0kw/feedshare-shrink_2048_1536/B4EZgD_5G.H4Ao-/0/1752413740365?e=1763596800&v=beta&t=m21eGXsMlsW3qeueEwfvP8HMRR8DIhSkiyGXPw_dv2U" height="80%" width="80%" alt="Automotive Diagnostics System"/>
 </p>
 
 <h2>Overview</h2>
@@ -57,6 +57,10 @@ and transmits the data in real time to a serial terminal.
 </ol>
 
 <h2> Simulation Results</h2>
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQH2989_HQXfVQ/feedshare-shrink_2048_1536/B4EZgD_5HSGYAo-/0/1752413744792?e=1763596800&v=beta&t=t8XCu5Y7N4815bG8pzbo_qDYBfk0-xCBatqT4Cmbno0" height="80%" width="80%" alt="Automotive Diagnostics System"/>
+</p>
 <ul>
   <li>Real-time monitoring of three key parameters.</li>
   <li>Stable and accurate readings from ADC and timer modules.</li>
